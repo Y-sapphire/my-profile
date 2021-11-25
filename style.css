@@ -115,10 +115,13 @@ a:hover {
 		width: 80%;
 	}
 	.card-beige{
-	background-color: #F3E2D0;
-	padding: 0;
-	box-shadow:none;
-}
+		background-color: #F3E2D0;
+		padding: 0;
+		box-shadow:none;
+	}
+	footer{
+		margin-bottom: 8%;
+	}
 }
 
 @media (max-width: 540px){
